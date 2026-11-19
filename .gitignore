@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings & temp files
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary Word / Office lock files (if any)
+~$*
